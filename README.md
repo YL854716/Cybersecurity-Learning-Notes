@@ -5,6 +5,9 @@
 ### <font style="color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);">项目简介</font>
 <font style="color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);">本仓库用于系统整理个人技术学习笔记，将日常学习、实践与项目经验进行结构化沉淀，形成可复用、可复盘的个人知识库，持续更新维护。</font>
 
+###### <font style="color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);">说明</font>
+本仓库为个人网络安全实战与学习笔记的同步镜像。原笔记长期维护于**语雀/私有知识库**，为了更好地进行技术分享与版本管理，现定期选择性迁移至 GitHub。  
+
 ### <font style="color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);">涵盖内容</font>
 + <font style="color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);">渗透测试流程与实战思路</font>
 + <font style="color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);">Web 安全常见漏洞原理与复现</font>
